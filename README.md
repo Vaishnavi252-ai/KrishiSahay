@@ -1,4 +1,4 @@
-# 🌾 AgriCredit Score - AI-Powered Credit Assessment for Farmers
+# 🌾 KrishiSahay AgriCredit Score - AI-Powered Credit Assessment for Farmers
 > **Revolutionizing agricultural finance through AI-powered credit assessment, making loans accessible to farmers who lack traditional credit history.**
 
 ---
