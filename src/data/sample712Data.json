@@ -1,0 +1,23 @@
+{
+  "marathi": {
+    "name": "रामदास राम शिंदे",
+    "survey_number": "101/2",
+    "village": "खळवंडी",
+    "district": "रायगड",
+    "acres": "2.34"
+  },
+  "hindi": {
+    "name": "रामदास राम शिंदे", 
+    "survey_number": "101/2",
+    "village": "खलवंडी",
+    "district": "रायगढ़",
+    "acres": "2.34"
+  },
+  "english": {
+    "name": "Ramdas Ram Shinde",
+    "survey_number": "101/2", 
+    "village": "Khalwandi",
+    "district": "Raigad",
+    "acres": "2.34"
+  }
+}
